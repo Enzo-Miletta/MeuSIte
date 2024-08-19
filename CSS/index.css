@@ -1,0 +1,17 @@
+body {
+    background-image: url('/images/teste-galaxy-2.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir toda a tela */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-attachment: fixed; /* Faz com que a imagem fique fixa ao rolar a página */
+    background-position: center; /* Centraliza a imagem */
+    color: white; /* Muda a cor do texto para branco para melhor contraste */
+}
+h1{
+    align-items: center;
+   padding-top: 300px ;
+   padding-left: 800px;
+}
+a{
+    align-self: center;
+    padding-left: 300px;
+}
